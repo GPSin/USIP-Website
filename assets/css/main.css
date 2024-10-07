@@ -1562,7 +1562,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(100, 0, 0, 0.5);
+			background-color: rgba(5, 5, 5, 0.4);
 			border-radius: 4px;
 			opacity: 0;
 		}
